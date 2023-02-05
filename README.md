@@ -1,2 +1,0 @@
-# Blooket-ModMenu
-Menu
